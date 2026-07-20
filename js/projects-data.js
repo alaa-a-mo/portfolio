@@ -2,7 +2,7 @@ const allProjectsData = [
   {
     id: 1,
     title: "Planet Spa",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Built the frontend from scratch from Figma and Adobe XD designs, implementing responsive layouts, custom animations, and a lightweight mobile navigation system without external plugins.",
     img: "images/projects/thumbnails/planet-spa-thumbnail.webp",
     url: "https://new.planetspa.net/",
@@ -10,7 +10,7 @@ const allProjectsData = [
   {
     id: 2,
     title: "Reef Oasis Fleet",
-    tags: ["Nuxt.js", "Vue.js", "SCSS", "Git"],
+    tags: ["Nuxt.js", "Vue.js", "SCSS", "JavaScript", "Tailwind CSS"],
     desc: "Collaborated with another frontend developer on a Nuxt.js application, implementing responsive Vue components and frontend features within a Git-based workflow.",
     img: "images/projects/thumbnails/reef-oasis-fleet-thumbnail.webp",
     url: "https://www.reefoasisfleet.com/",
@@ -18,7 +18,7 @@ const allProjectsData = [
   {
     id: 3,
     title: "German Hotel School",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Translated Figma and Adobe XD designs into responsive, production-ready interfaces with reusable components and consistent user experience across devices.",
     img: "images/projects/thumbnails/german-hotel-school-thumbnail.webp",
     url: "https://ghs.edu.eg/",
@@ -26,7 +26,7 @@ const allProjectsData = [
   {
     id: 4,
     title: "Egypt International Diving",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Built responsive frontend pages with custom JavaScript interactions, focusing on usability, performance, and cross-browser compatibility.",
     img: "images/projects/thumbnails/egypt-international-co-thumbnail.webp",
     url: "https://www.egyptinternationalco.com/",
@@ -34,7 +34,7 @@ const allProjectsData = [
   {
     id: 5,
     title: "Utopia Island",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Implemented responsive layouts, booking-related user interfaces, and interactive frontend components with a focus on smooth user experience.",
     img: "images/projects/thumbnails/utopia-island-thumbnail.webp",
     url: "https://www.utopiaisland.net/",
@@ -42,7 +42,7 @@ const allProjectsData = [
   {
     id: 6,
     title: "Sea Breeze Liveaboards",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Implemented custom navigation components and interactive JavaScript functionality, improving user flow across desktop and mobile devices.",
     img: "images/projects/thumbnails/seabreeze-liveaboard-thumbnail.webp",
     url: "https://www.seabreeze-liveaboard.com/",
@@ -53,7 +53,7 @@ const additionalProjectsData = [
   {
     id: 7,
     title: "Carpe Diem Maldives Cruises",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Developed responsive frontend interfaces for a liveaboard booking website, including a custom interactive attractions map that synchronizes map regions and filter controls to dynamically display activities using JavaScript.",
     img: "images/projects/thumbnails/carpe-diem-maldives-cruises-thumbnail.webp",
     url: "https://www.carpediemmaldives-cruises.com/",
@@ -61,7 +61,7 @@ const additionalProjectsData = [
   {
     id: 8,
     title: "Aquanaut Dive Club",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Built responsive frontend pages for a multilingual dive center website, implementing reusable layouts, interactive UI components, and custom JavaScript functionality across desktop and mobile devices.",
     img: "images/projects/thumbnails/aquanaut-club-thumbnail.webp",
     url: "https://www.aquanautclub.com/",
@@ -69,7 +69,7 @@ const additionalProjectsData = [
   {
     id: 9,
     title: "Dive Base Academy",
-    tags: ["HTML", "SCSS", "JavaScript", "jQuery"],
+    tags: ["HTML", "SCSS", "JavaScript", "jQuery", "Bootstrap"],
     desc: "Developed responsive frontend pages for a diving academy website, translating design mockups into production-ready interfaces with reusable UI components and interactive JavaScript functionality.",
     img: "images/projects/thumbnails/dive-base-academy-thumbnail.webp",
     url: "https://divebaseacademy.com/",

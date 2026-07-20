@@ -376,7 +376,7 @@
                     <div class="flex flex-wrap gap-2 mb-3">
                       <template x-for="tag in p.tags" :key="tag">
                         <span
-                          class="text-xs px-2.5 py-1 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400"
+                          class="text-xs bg-zinc-200 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 px-3 py-1 rounded-full transition-colors group-hover:text-accent"
                           x-text="tag"
                         ></span>
                       </template>
@@ -456,7 +456,7 @@
                     <div class="flex flex-wrap gap-2 mb-3">
                       <template x-for="tag in p.tags" :key="tag">
                         <span
-                          class="text-xs px-2.5 py-1 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400"
+                          class="text-xs bg-zinc-200 dark:bg-zinc-800 text-zinc-600 dark:text-zinc-400 px-3 py-1 rounded-full transition-colors group-hover:text-accent"
                           x-text="tag"
                         ></span>
                       </template>
