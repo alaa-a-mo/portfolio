@@ -75,3 +75,49 @@ const additionalProjectsData = [
     url: "https://divebaseacademy.com/",
   },
 ];
+
+const personalProjectsData = [
+  {
+    id: 1,
+    title: "Job Portal",
+    tags: [
+      "React",
+      "React Router",
+      "Redux Toolkit",
+      "TanStack Query",
+      "Firebase",
+      "Tailwind CSS",
+    ],
+    desc: "A full-stack job board application with authentication, job listings, job management, and application tracking.",
+    img: "images/projects/thumbnails/job-portal-thumbnail.webp",
+    url: "https://job-portal-eta-bay-54.vercel.app/",
+    github: "https://github.com/alaa-a-mo/job-portal",
+  },
+  {
+    id: 2,
+    title: "Recipe Book",
+    tags: ["React", "React Router", "Tailwind CSS"],
+    desc: "A small recipe app built to practice the data router features of React Router.",
+    img: "images/projects/thumbnails/react-router-recipe-app-thumbnail.webp",
+    url: "https://react-router-recipe-app.vercel.app/",
+    github: "https://github.com/alaa-a-mo/react-router-recipe-app",
+  },
+  {
+    id: 3,
+    title: "Investment Calculator",
+    tags: ["React", "JavaScript (ES6+)", "CSS"],
+    desc: "A simple investment calculator built with React that estimates the future value of an investment based on an initial deposit, yearly contributions, expected annual return, and investment duration.",
+    img: "images/projects/thumbnails/react-investment-calculator-thumbnail.webp",
+    url: "https://react-investment-calculator-chi.vercel.app/",
+    github: "https://github.com/alaa-a-mo/react-investment-calculator",
+  },
+  {
+    id: 4,
+    title: "Project Management App",
+    tags: ["React", "JavaScript (ES6+)", "Tailwind CSS"],
+    desc: "A responsive project and task management app built with React and Tailwind CSS.",
+    img: "images/projects/thumbnails/project-manager-thumbnail.webp",
+    url: "https://react-project-management-app-omega.vercel.app/",
+    github: "https://github.com/alaa-a-mo/react-project-management-app",
+  },
+];
